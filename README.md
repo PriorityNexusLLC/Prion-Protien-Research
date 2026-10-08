@@ -79,7 +79,8 @@ Corrections are welcome, particularly from anyone with institutional access to t
 
 ## Access and use
 
-The document is shared by link above. For access, questions, or permission to reuse any part of it, please get in
-touch: **theaistherapist@gmail.com**. No reuse license is granted beyond reading; all rights reserved by the author.
+This page is a public summary. The full study notes (the linked document) are private and shared by invitation:
+to request access, ask questions, or ask permission to reuse any part of it, contact **theaistherapist@gmail.com**.
+No reuse license is granted beyond reading; all rights reserved by the author.
 
 **Author:** Josie Anderson · Priority Nexus LLC · theaistherapist@gmail.com
