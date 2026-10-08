@@ -76,3 +76,10 @@ Start with §1 for the mechanism, §2 for the disease taxonomy, §6 for terminol
 ## Contributing
 
 Corrections are welcome, particularly from anyone with institutional access to the sources listed as unreachable in the Sources tab. If you can open one and it says something other than what the document claims, that is the most useful thing you could send.
+
+## Access and use
+
+The document is shared by link above. For access, questions, or permission to reuse any part of it, please get in
+touch: **theaistherapist@gmail.com**. No reuse license is granted beyond reading; all rights reserved by the author.
+
+**Author:** Josie Anderson · Priority Nexus LLC · theaistherapist@gmail.com
